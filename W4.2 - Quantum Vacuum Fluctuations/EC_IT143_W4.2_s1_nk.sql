@@ -1,0 +1,1 @@
+-- Q: What is the overall average (baseline) of measurement values found in column2?
