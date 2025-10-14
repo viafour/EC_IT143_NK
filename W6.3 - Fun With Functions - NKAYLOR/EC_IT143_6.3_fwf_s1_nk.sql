@@ -1,0 +1,1 @@
+-- Q: How to extract first name from Contract Name?
